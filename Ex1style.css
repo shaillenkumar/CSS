@@ -1,0 +1,10 @@
+/*
+Class selector starts with .  dot. Can be reused.
+*/
+.para3 {
+	color:green;
+	font-size: 23px;
+	background-color: #72728C;
+	text-align:right;
+	font-weight: 600;    /* font-weight: normal 400 (default)  - Can have numeric Value from 100 to 700. */
+}
